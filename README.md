@@ -16,7 +16,7 @@ Welcome to my professional data analytics portfolio. Below are end-to-end projec
 ## Project 2: Interactive UK Retail Analytics (Business Intelligence)
 * **Objective:** Visualizing consumer purchase patterns and regional growth trends across the UK market.
 * **Tech Stack:** Tableau Public
-* **Live Dynamic Dashboard:** [Click to View My Interactive Tableau Dashboard]([https://public.tableau.com/app)
+* **Live Dynamic Dashboard:**[Click](https://public.tableau.com/app)
 
 
 
