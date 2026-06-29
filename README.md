@@ -9,7 +9,7 @@ Welcome to my professional data analytics portfolio. Below are end-to-end projec
 * **Core Code File** 'amazon_sales_analysis.sql' (Contains optimized data aggregations and segmentations).
 * **SQL Core Competencies:** Agregations ('SUM', 'AVG', 'COUNT'), Grouping('GROUP BY'), Data Sorting ('ORDER BY'), Data Filter, Limit Constraints.
 
-# Business Insights Extracted
+### Business Insights Extracted
 1. **Customer Lifetime Value (CLV):** Identified top tier high-value buyers by total volume spend and frequency to optimize target marketing campaigns.
 2. **Product Performance Allocation:** Evaluated gross profit generation across distinct categories and sub-categories to isolate underperforming inventory sectors.
 
